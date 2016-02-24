@@ -1,2 +1,2 @@
 # react-colorpicker
-Colorpicker for my experimentation with React
+This is a simple HSL colorpicker component for my experimentation with React.
